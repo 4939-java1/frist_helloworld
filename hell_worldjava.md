@@ -1,4 +1,4 @@
-#这是用Java写的一个hello_world程序
+杩欐槸鎴戠殑绗竴涓狦itHub浠ｇ爜
 ```java
 public class hello_world{
     public static void main(String[] args){
